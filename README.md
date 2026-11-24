@@ -70,14 +70,13 @@ Visualizations
   
 📈 Key Performance Indicators
 
-KPI| Result
-Internal Transactions| 5,000
-Bank Transactions| 4,950
-Matched Transactions| 4,938
-Missing in Bank| 50
-Amount Mismatches| 12
-Exact-Match Reconciliation Rate| 98.76%
-Internal Transaction Success Rate| 90.12%
+- Internal Transactions: 5,000
+- Bank Transactions: 4,950
+- Matched Transactions: 4,938
+- Missing in Bank: 50
+- Amount Mismatches: 12
+- Exact-Match Reconciliation Rate: 98.76%
+- Internal Transaction Success Rate: 90.12%
 
 🔍 Key Business Insights
 
@@ -100,14 +99,12 @@ Financial-Transaction-Reconciliation/
 │   └── Bank_Transactions_Clean_12M.csv
 │
 ├── SQL/
-│   └── SQL_Queries.sql
+│   └── Financial_Transaction_Reconciliation.sql
 │
 ├── Dashboard/
+│   ├── Financial_Transaction_Dashboard.pbix
 │   ├── Financial_Transaction_Overview.png
 │   └── Reconciliation_Data_Quality.png
-│
-├── Report/
-│   └── Project_Report.pdf
 │
 └── README.md
 
