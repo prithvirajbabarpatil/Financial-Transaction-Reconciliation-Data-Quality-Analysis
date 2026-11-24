@@ -49,7 +49,7 @@ Visualizations
 - Payment Method Analysis
 - Merchant Category Analysis
 - Internal vs Bank Transactions
-- 
+  
 2. Reconciliation & Data Quality Analysis
 
 Key Performance Indicators
