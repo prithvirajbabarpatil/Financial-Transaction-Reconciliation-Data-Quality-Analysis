@@ -49,7 +49,7 @@ Visualizations
 - Payment Method Analysis
 - Merchant Category Analysis
 - Internal vs Bank Transactions
-
+- 
 2. Reconciliation & Data Quality Analysis
 
 Key Performance Indicators
@@ -67,7 +67,7 @@ Visualizations
 - Data Quality Breakdown
 - Discrepancy Amount Analysis
 - Matched vs Unmatched Transactions
-
+  
 📈 Key Performance Indicators
 
 KPI| Result
@@ -161,5 +161,12 @@ Prithviraj Babar
 GitHub: "Prithviraj Babar" (https://github.com/)
 
 ---
+## Dashboard Previews
+
+### 1. Financial Transaction Overview
+![Financial Transaction Overview](Financial_Transaction_Overview.png)
+
+### 2. Reconciliation & Data Quality Analysis
+![Reconciliation & Data Quality](Reconciliation_Data_Quality.png)
 
 ⭐ If you find this project useful, consider giving this repository a star!
